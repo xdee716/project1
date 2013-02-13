@@ -1,6 +1,7 @@
 
 h1{
 	font-family: 'Kavoon', cursive;
+	background-color:#666b7e;
 }
 .new{
 	color:red;
@@ -8,3 +9,38 @@ h1{
 .logo{
 	font-size: 4em;
 }
+p{
+	background-color:#293647;
+}
+.copy{
+	font-size:2em;
+	color:#0000f;
+}
+.write{
+	color:#f3f3f3;
+}
+.url{
+	background-color:#293647;
+}
+body{
+	color:#f3f3f3;
+	background-color:#293647;
+	background:url("../img/back.png");
+}
+
+a{
+	color:#f3f3f3;
+}
+.highlight{
+	background-color:#f3f3f3;
+}
+
+
+
+	/*
+	#dba401    - yellow
+	#97010a    - red-ish
+	#666b7e    - gray
+	#293647    - dark gray
+	#f3f3f3    - White ish
+	*/
